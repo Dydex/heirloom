@@ -2,7 +2,7 @@
 
 Notes from building Heirloom with `stacksdapp` 0.2.2 on Ubuntu (Linux x64), Rust 1.98, Node 24, Clarinet 3.24.1.
 
-**Time to ship:** _fill in_ (install → deployed contract → live Vercel app)
+**Time to ship:** about 3 hours (install → deployed contract → live Vercel app)
 
 ## What worked well
 

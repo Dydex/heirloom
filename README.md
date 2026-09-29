@@ -6,6 +6,7 @@ Millions of BTC are gone for good because their owners died without passing on a
 
 Heirloom is a dead man's switch on Stacks. You lock STX in a vault and name an heir. You check in now and then. If you go silent for longer than the period you chose, measured in **Bitcoin blocks**, your heir, and only your heir, can claim the vault. Until then you keep full control.
 
+- **Live app:** https://heirloom-mauve.vercel.app
 - **Contract (testnet):** [`ST1B5ADT5PGRQDGZMNEJ7KR4KPD62KSWQPKD371BF.heirloom`](https://explorer.hiro.so/txid/ST1B5ADT5PGRQDGZMNEJ7KR4KPD62KSWQPKD371BF.heirloom?chain=testnet)
 - **Built with:** [Scaffold Stacks](https://scaffoldstacks.mintlify.app/) (`stacksdapp` CLI, Clarity 6, Next.js)
 

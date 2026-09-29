@@ -1,0 +1,17 @@
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: https://api.testnet.hiro.so
+bitcoin-node: http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332
+plan:
+  batches:
+  - id: 0
+    transactions:
+    - transaction-type: contract-publish
+      contract-name: heirloom
+      expected-sender: ST1B5ADT5PGRQDGZMNEJ7KR4KPD62KSWQPKD371BF
+      cost: 138407
+      path: contracts/heirloom.clar
+      anchor-block-only: true
+      clarity-version: 6
+    epoch: '4.0'

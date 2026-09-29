@@ -5,8 +5,8 @@ import Header from '../components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'scaffold-stacks',
-  description: 'Built with scaffold-stacks',
+  title: 'Heirloom: Bitcoin inheritance on Stacks',
+  description: "Lock STX, name an heir, check in now and then. If you go silent, your heir can claim it.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
